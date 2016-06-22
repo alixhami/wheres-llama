@@ -5,6 +5,8 @@ body {
 
 h2 {
   visibility: hidden;
+  font-size: 3em;
+  margin-top: 10px;
 }
 
 td {
